@@ -1,4 +1,4 @@
-iFROM nginx
+FROM nginx
 MAINTAINER ashwin mohan "ashwin.mohan@gds.ey.com"
 WORKDIR /usr/share/nginx/html/
 ADD . .
